@@ -23,3 +23,8 @@ Hoever there are some things as far as I can see that can not be remapped withou
 - Alt+Tab
 - Window Snapping is not a feature of macos and as far as I can see there no way to add keyboard shortcuts for it.
 - Remapping fucntion keys for thos thos super annoying macbook keyboards with FN on the very bottomn left.
+
+## Suggested Setting Changes
+
+In mission control:
+![alt text](MissionControlSettings.png)
